@@ -1,0 +1,5 @@
+Nombre y apellido: Florencia Aszenberg
+Comision: B
+Horas dedicadas: varias semanas a la noche luego de la cursada y fines de semanas enteros ya que en el dia
+trabajo todo el dia antes de conectarme. 
+Navegadores testeados: https://validator.w3.org/#validate_by_input  y  (validador html5)
